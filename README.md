@@ -16,5 +16,4 @@
 2. Поместите файл `ncr_ride_bookings.csv` в ту же папку
 3. Запустите: `python analyze_ncr.py`
 
-## Автор
-Ваше Имя
+
